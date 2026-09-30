@@ -209,7 +209,7 @@ if st.button("Criar mapa astral"):
 
             st.components.v1.html(
                 svg_string,
-                height=1000,
+                height=1200,
                 scrolling=False
             )
 
