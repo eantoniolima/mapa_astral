@@ -35,9 +35,6 @@ Biblioteca responsável pelos cálculos astrológicos e pela criação dos dados
 
 Utilizado pelo Kerykeion para obter informações geográficas relacionadas à cidade informada pelo usuário.
 
-### Base64
-
-Utilizado para converter a imagem utilizada na interface para uma representação que possa ser incorporada diretamente ao HTML.
 
 ### CSS / HTML
 
