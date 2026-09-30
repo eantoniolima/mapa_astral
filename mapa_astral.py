@@ -129,6 +129,17 @@ pais = st.text_input(
 )
 
 # Botão para criar o mapa astral
+st.markdown("""
+<style>
+div.stButton > button {
+    background: linear-gradient(90deg, #6A1B9A, #1565C0) !important;
+    color: black !important;
+    border: none !important;
+    border-radius: 10px !important;
+    font-weight: bold !important;
+}
+</style>
+""", unsafe_allow_html=True)
 
 if st.button("Criar mapa astral"):
 
