@@ -49,3 +49,5 @@ Utilizados para personalizar a aparência da aplicação, incluindo:
 - Formatação do título
 - Personalização visual da página
 
+Caso tenha interesse em ver o app funcionando, basta acessar:
+https://mapaastral.streamlit.app/
